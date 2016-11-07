@@ -10,6 +10,7 @@ class RetiredForagerBee extends ForagerBee {
   this.color = 'grey';
  }
 
+
  forage() {
   return 'I am too old, let me play cards instead';
  }

@@ -12,7 +12,6 @@ class ForagerBee extends Bee {
  forage(treasure) {
  	this.treasureChest.push(treasure);
  }
-
 };
 
 export default ForagerBee;

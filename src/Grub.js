@@ -9,6 +9,5 @@ class Grub {
  eat() {
   return 'Mmmmmmmmm ' + this.food;
  }
- 
 };
 export default Grub;
