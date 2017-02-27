@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 export BRANCH=course.6ees6ees6ees
+=======
+export BRANCH=course.mvp
+>>>>>>> First commit
 
 if [ -d ".git" ]; then
   echo "Error: This folder has already been initialized as a git repository."

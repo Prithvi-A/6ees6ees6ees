@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
 .DS_Store
+=======
+### node etc ###
+
+# Logs
+logs
+*.log
+>>>>>>> First commit
 
 # Runtime data
 pids
@@ -17,6 +25,7 @@ coverage
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
+<<<<<<< HEAD
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
@@ -27,6 +36,17 @@ node_modules
 
 # bower dependencies
 bower_components
+=======
+# Compiled Dirs (http://nodejs.org/api/addons.html)
+build/
+dist/
+
+# Dependency directorys
+# Deployed apps should consider commenting these lines out:
+# see https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
+node_modules/
+bower_components/
+>>>>>>> First commit
 
 # Floobits
 .floo
